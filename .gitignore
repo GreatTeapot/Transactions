@@ -1,0 +1,6 @@
+#../TestsProject/.env
+.idea
+venv
+#../TestsProject/.env-non-dev
+.pytest_cache
+__pycache__
